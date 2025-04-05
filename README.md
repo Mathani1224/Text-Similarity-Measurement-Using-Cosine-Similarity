@@ -1,0 +1,1 @@
+The Text Similarity Measurement Using Cosine Similarity project demonstrates how to compare documents or sentences by calculating the cosine of the angle between their vector representations. It helps identify how similar two texts are, and is commonly used in search engines, plagiarism detection, and recommendation systems.
